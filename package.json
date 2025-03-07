@@ -8,10 +8,8 @@
     "bcryptjs": "^3.0.2",
     "cors": "^2.8.5",
     "cra-template-pwa": "2.0.0",
-    "firebase-admin": "^13.2.0",
-
+    "firebase-admin": "^13.2.0"
   },
-
   "eslintConfig": {
     "extends": [
       "react-app",
