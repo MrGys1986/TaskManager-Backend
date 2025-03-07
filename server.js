@@ -43,4 +43,5 @@ app.get("/", (req, res) => res.send("Servidor funcionando correctamente 🚀"));
 
 // Iniciar servidor
 const PORT = process.env.PORT || 5000;
-app.listen(PORT, () => console.log(`✅ Servidor corriendo en http://localhost:${PORT}`));
+app.listen(PORT, () => console.log(`✅ Servidor corriendo en el puerto ${PORT}`));
+
